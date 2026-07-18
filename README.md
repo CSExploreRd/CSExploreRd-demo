@@ -1,4 +1,4 @@
 # CSExploreRd-demo
 This is my first Git Repository 
 <br>
-Author - Rakhi dhak
+Author - Rakhi D
